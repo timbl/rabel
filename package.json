@@ -1,0 +1,24 @@
+{
+  "name": "rabel",
+  "description": "Linked Data command line utility",
+  "version": "0.2.12",
+  "author": {
+    "name": "Tim Berners-Lee",
+    "email": "timbl@w3.org"
+  },
+  "maintainers": [
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/timbl/rabel"
+  },
+  "homepage": "http://github.com/timbl/rabel",
+  "bugs": "http://github.com/timbl/rabel/issues",
+  "dependencies": {
+    "rdflib": "^0.2.9"
+  },
+  "devDependencies": {
+  },
+  "main": "rabel.js"
+}
